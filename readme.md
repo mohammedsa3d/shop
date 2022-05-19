@@ -29,6 +29,6 @@ Run it in the root folder.
 npm run seeder
 ```
 ### You can browse through the link below
-```
+
 https://sengawyshop.herokuapp.com/
-```
+
